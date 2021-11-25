@@ -1,0 +1,2 @@
+18:54:12.291 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x2bf176484eb20f2d
+18:54:12.457 [TestNG-tests-1] INFO  resources.Base - Driver initsialized
